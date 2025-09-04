@@ -1,0 +1,4 @@
+2025/09/04-22:15:47.676 3be8 Reusing MANIFEST C:\Users\komer\Desktop\jk\whatsapp_bot\base64_session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/04-22:15:47.676 3be8 Recovering log #104
+2025/09/04-22:15:47.683 3be8 Reusing old log C:\Users\komer\Desktop\jk\whatsapp_bot\base64_session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000104.log 
+2025/09/04-22:15:49.595 3be8 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)
