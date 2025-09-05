@@ -20,6 +20,8 @@ const myqr = (qr_parameter) => {
 const my_messages=(chat)=>{
     
     console.log(`${chat.from} : ${chat.body} ${chat.getContact().pushname} `)
+    chat.reply("hi there") //this will reply by tagging that message
+    client.sendMessage(chat.from,"hello")
 
 }
 
